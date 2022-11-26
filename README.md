@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Luminat3
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning to be a better person
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in Machine Learning and Android Apps
 - 📫 How to reach me bskin132@gmail.com
 
 <!---
