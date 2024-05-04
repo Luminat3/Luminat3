@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @Luminat3
-- 👀 I’m interested in Machine Learning and Android Apps
-- 📫 How to reach me bskin132@gmail.com
+# Hello, My name is Adrian Chen
+## I am programmer who is currently learning
+* :mailbox: Contact me on : [bskin132@gmail.com](mailto:bskin132@gmail.com)
+* :house: My residence is in Indonesia
+* :ledger: I'm currently learning Laravel, and Python
+* :school_satchel: I'm a student on MDP University
+
+## Skills
+![https://kotlinlang.org/](https://img.shields.io/badge/Kotlin-dd2fe0?style=for-the-badge&logo=kotlin&labelColor=000000) 
+
 
 <!---
 Luminat3/Luminat3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
