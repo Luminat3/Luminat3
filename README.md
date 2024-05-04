@@ -6,7 +6,7 @@
 * :school_satchel: I'm a student on MDP University
 
 ## Skills
-![Static Badge](https://img.shields.io/badge/Kotlin-dd2fe0?style=for-the-badge&logo=kotlin&labelColor=000000&link=https%3A%2F%2Fkotlinlang.org%2F)
+![Kotlin](https://img.shields.io/badge/Kotlin-dd2fe0?style=for-the-badge&logo=kotlin&labelColor=000000&link=https%3A%2F%2Fkotlinlang.org%2F)
 
 
 
